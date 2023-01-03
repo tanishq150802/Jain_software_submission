@@ -1,10 +1,10 @@
 # Jain_software_submission
-Submission for Intern Task (Web Scraping)
+Submission for Intern Task (Web Scraping **without login**)
 
 Requirements:
 
 1. facebook_scraper
-2. instagramy
+2. instagramy (https://developers.facebook.com/docs/instagram-api/ can be used if instagramy becomes outdated but it will require login)
 3. snscrape
 4. pandas
 
